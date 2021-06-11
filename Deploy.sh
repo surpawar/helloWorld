@@ -1,0 +1,1 @@
+echo "This is Deploy example executed on $(date)"
